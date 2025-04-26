@@ -20,9 +20,11 @@ FrameMagnitude float
 CollisionTightly float
 
 # Screenshots
-![Screenshot_20250426_094540_Gallery](https://github.com/user-attachments/assets/1d5ff3d4-979b-4ccf-80fa-856fc81865ce)
+![Screenshot_20250426_094540_Gallery](https://github.com/user-attachments/assets/97bceee0-0941-40bd-b177-faeb4197669d)
+![Screenshot_20250426_094525_Gallery](https://github.com/user-attachments/assets/5d74a691-4ee5-44af-830c-2fe679cb9b82)
 
-![Screenshot_20250426_094525_Gallery](https://github.com/user-attachments/assets/714a0574-8613-4595-a29c-aec82c521982)
+
+
 
 
 
