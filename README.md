@@ -19,5 +19,10 @@ FrameMagnitude float
 
 CollisionTightly float
 
-https://github.com/oxiprojekt/Videos/blob/main/Screen_Recording_20250425_204306_Coffee%20Jam.mp4
+# Screenshots
+![Screenshot_20250426_094540_Gallery](https://github.com/user-attachments/assets/1d5ff3d4-979b-4ccf-80fa-856fc81865ce)
+
+![Screenshot_20250426_094525_Gallery](https://github.com/user-attachments/assets/714a0574-8613-4595-a29c-aec82c521982)
+
+
 
