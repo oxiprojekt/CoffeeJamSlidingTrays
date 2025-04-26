@@ -21,7 +21,6 @@ CollisionTightly float
 
 # Screenshots
 ![Screenshot_20250426_094540_Gallery](https://github.com/user-attachments/assets/97bceee0-0941-40bd-b177-faeb4197669d)
-![Screenshot_20250426_094525_Gallery](https://github.com/user-attachments/assets/5d74a691-4ee5-44af-830c-2fe679cb9b82)
 
 ![coffeeJameGif20sec](https://github.com/user-attachments/assets/d5a228e2-c4e6-489f-af1f-082db9888fa5)
 
