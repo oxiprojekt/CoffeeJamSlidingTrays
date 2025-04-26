@@ -20,8 +20,6 @@ FrameMagnitude float
 CollisionTightly float
 
 # Screenshots
-![Screenshot_20250426_094540_Gallery](https://github.com/user-attachments/assets/97bceee0-0941-40bd-b177-faeb4197669d)
-
 ![coffeeJameGif20sec](https://github.com/user-attachments/assets/d5a228e2-c4e6-489f-af1f-082db9888fa5)
 
 
